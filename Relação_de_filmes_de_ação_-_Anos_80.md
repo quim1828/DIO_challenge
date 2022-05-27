@@ -1,4 +1,5 @@
 ## Filmes de ação dos anos 80
 
-* Bloodsport;
-* Rambo
+* _Bloodsport_;
+* _Rambo_;
+* _The Terminator_
